@@ -1,0 +1,8 @@
+{
+  "name": "managing-packages",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:MrKernelPanic-dev/managing-packages.git",
+  "author": "MrKernelPanic",
+  "license": "MIT"
+}
